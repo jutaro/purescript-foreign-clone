@@ -1,9 +1,9 @@
-# purescript-foreign
-
-[![Latest release](http://img.shields.io/github/release/purescript/purescript-foreign.svg)](https://github.com/purescript/purescript-foreign/releases)
-[![Build status](https://travis-ci.org/purescript/purescript-foreign.svg?branch=master)](https://travis-ci.org/purescript/purescript-foreign)
+# purescript-foreign-clone
 
 Library for dealing with foreign data (JavaScript objects).
+Clone of purescript-foreign before garyb removed the IsForeign and AsForeign classes.
+Renamed Foreign to CForeign to avoid name clashes.
+
 
 ## Installation
 
@@ -25,4 +25,4 @@ bower install purescript-foreign-clone
 
 ## Documentation
 
-Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-foreign).
+Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-foreign-clone).
